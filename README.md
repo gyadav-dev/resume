@@ -17,5 +17,8 @@ I am posting this project on Github as well, so that, I have a readily avilable 
 - Made a folder in which I will make my index.html file
 - Wrote code in the index.html file
 - Initialized git in my local machine
+- Committed changes
 - Made a repo on Github
--
+- Added remote on local machine
+- Pushed code on the remote
+- Added Screenshots folder and added two screenshots
